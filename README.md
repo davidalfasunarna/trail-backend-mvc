@@ -2,8 +2,9 @@
 
 Structured REST API web server written in go
 
-I've learn to write these code base on tutorial that I found on:
+I've learn to write these code based on tutorial that I found on:
 https://medium.com/@laibulle/structured-rest-api-with-golang-step-1-project-structure-23a4a8a81526
+
 All credit goes to:
 https://github.com/laibulle/kitties
 
