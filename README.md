@@ -16,10 +16,10 @@ https://github.com/laibulle/kitties
 
 * Gorilla Mux - https://github.com/gorilla/mux
 * Pq - https://github.com/lib/pq
-* Gorm - github.com/jinzhu/gorm
-* Godotenv - github.com/joho/godotenv
-* Cli - github.com/urfave/cli
-* Goconvey - github.com/smartystreets/goconvey
+* Gorm - https://github.com/jinzhu/gorm
+* Godotenv - https://github.com/joho/godotenv
+* Cli - https://github.com/urfave/cli
+* Goconvey - https://github.com/smartystreets/goconvey
 
 ### Who do I talk to? ###
 
